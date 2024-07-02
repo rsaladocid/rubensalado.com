@@ -1,0 +1,39 @@
+{
+  "site": {
+    "title": "rubensalado | Rubén Salado - Pragmatic Software Engineer and PhD in Computer Science",
+    "base_url": "https://rubensalado.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/logo.jpg"
+  },
+
+  "settings": {
+    "pagination": 8,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "profile": {
+    "name": "Rubén Salado",
+    "image": "/images/photo.jpg",
+    "designation": "Pragmatic Software Engineer & PhD in Computer Science",
+    "bio": "My focus is on leveraging technology to drive business success. I am passionate about solving complex problems, optimizing processes, and delivering high-impact results, while leading innovation and driving technological development within the organization."
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2024 Rubén Salado"
+  },
+
+  "disqus": {
+    "enable": false,
+    "shortname": "themefisher-template",
+    "settings": {}
+  },
+
+  "metadata": {
+    "meta_author": "rubensalado",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Rubén Salado - Pragmatic Software Engineer and PhD in Computer Science"
+  }
+}

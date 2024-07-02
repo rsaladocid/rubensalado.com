@@ -1,0 +1,29 @@
+{
+  "main": [
+    {
+      "name": "twitter",
+      "icon": "FaXTwitter",
+      "link": "https://twitter.com/rsaladocid"
+    },
+    {
+      "name": "youtube",
+      "icon": "FaYoutube",
+      "link": "https://www.youtube.com/@rubensalado"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/rubensalado/"
+    },
+    {
+      "name": "medium",
+      "icon": "FaMedium",
+      "link": "https://www.medium.com/@rubensalado/"
+    },
+    {
+      "name": "email",
+      "icon": "FaEnvelope",
+      "link": "mailto:hello@rubensalado.com"
+    }
+  ]
+}
