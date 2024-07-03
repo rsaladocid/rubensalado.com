@@ -260,58 +260,65 @@ declare module 'astro:content' {
   collection: "posts";
   data: any
 } & { render(): Render[".md"] };
-"3-phd-enabling-definition.md": {
-	id: "3-phd-enabling-definition.md";
-  slug: "3-phd-enabling-definition";
+"3-projects-videohead.md": {
+	id: "3-projects-videohead.md";
+  slug: "videohead-promo-website-videos";
   body: string;
   collection: "posts";
   data: any
 } & { render(): Render[".md"] };
-"3-phd-interoperabilidad-industria-40.md": {
-	id: "3-phd-interoperabilidad-industria-40.md";
-  slug: "3-phd-interoperabilidad-industria-40";
+"4-phd-enabling-definition.md": {
+	id: "4-phd-enabling-definition.md";
+  slug: "4-phd-enabling-definition";
   body: string;
   collection: "posts";
   data: any
 } & { render(): Render[".md"] };
-"3-phd-lenguaje-ciencia-datos.md": {
-	id: "3-phd-lenguaje-ciencia-datos.md";
-  slug: "3-phd-lenguaje-ciencia-datos";
+"4-phd-interoperabilidad-industria-40.md": {
+	id: "4-phd-interoperabilidad-industria-40.md";
+  slug: "4-phd-interoperabilidad-industria-40";
   body: string;
   collection: "posts";
   data: any
 } & { render(): Render[".md"] };
-"3-phd-metaherramienta.md": {
-	id: "3-phd-metaherramienta.md";
-  slug: "3-phd-metaherramienta";
+"4-phd-lenguaje-ciencia-datos.md": {
+	id: "4-phd-lenguaje-ciencia-datos.md";
+  slug: "4-phd-lenguaje-ciencia-datos";
   body: string;
   collection: "posts";
   data: any
 } & { render(): Render[".md"] };
-"3-phd-on-the-need.md": {
-	id: "3-phd-on-the-need.md";
-  slug: "3-phd-on-the-need";
+"4-phd-metaherramienta.md": {
+	id: "4-phd-metaherramienta.md";
+  slug: "4-phd-metaherramienta";
   body: string;
   collection: "posts";
   data: any
 } & { render(): Render[".md"] };
-"3-phd-sistema-gestion-flujos-trabajo-algoritmos-evolutivos.md": {
-	id: "3-phd-sistema-gestion-flujos-trabajo-algoritmos-evolutivos.md";
-  slug: "3-phd-sistema-gestion-flujos-trabajo-algoritmos-evolutivos";
+"4-phd-on-the-need.md": {
+	id: "4-phd-on-the-need.md";
+  slug: "4-phd-on-the-need";
   body: string;
   collection: "posts";
   data: any
 } & { render(): Render[".md"] };
-"3-phd-swel.md": {
-	id: "3-phd-swel.md";
-  slug: "3-phd-swel";
+"4-phd-sistema-gestion-flujos-trabajo-algoritmos-evolutivos.md": {
+	id: "4-phd-sistema-gestion-flujos-trabajo-algoritmos-evolutivos.md";
+  slug: "4-phd-sistema-gestion-flujos-trabajo-algoritmos-evolutivos";
   body: string;
   collection: "posts";
   data: any
 } & { render(): Render[".md"] };
-"3-phd-thesis.md": {
-	id: "3-phd-thesis.md";
-  slug: "3-phd-thesis";
+"4-phd-swel.md": {
+	id: "4-phd-swel.md";
+  slug: "4-phd-swel";
+  body: string;
+  collection: "posts";
+  data: any
+} & { render(): Render[".md"] };
+"4-phd-thesis.md": {
+	id: "4-phd-thesis.md";
+  slug: "4-phd-thesis";
   body: string;
   collection: "posts";
   data: any
