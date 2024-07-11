@@ -260,6 +260,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: any
 } & { render(): Render[".md"] };
+"2-mongo-sessions-9-vistas-materializadas.md": {
+	id: "2-mongo-sessions-9-vistas-materializadas.md";
+  slug: "2-mongo-sessions-9-vistas-materializadas";
+  body: string;
+  collection: "posts";
+  data: any
+} & { render(): Render[".md"] };
 "3-projects-videohead.md": {
 	id: "3-projects-videohead.md";
   slug: "videohead-promo-website-videos";
